@@ -5,15 +5,16 @@ a {
 	text-decoration: none; /* CMS Link Text Decoration */
 	/* Perubahan pertama */
 	/* Perubahan ketiga */
-<<<<<<< HEAD
+
 
 	
 	/* Perubahan ketiga */
 
 
-=======
+
 	/* Perubahan kelima */
->>>>>>> feature1
+		/* Perubahan tes stash*/
+
 }
 a:hover {
 	color: #515355; /* CMS Link Hover Font Color */
